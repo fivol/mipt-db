@@ -19,7 +19,9 @@
 **Пункт 2**
 
 ![concept-model](./public/concept-model.jpg)
-![logic-model](./public/logic-model.jpg)
+## **Логическая модель**
+![logic-model](./public/logic-model.png)
+## **Физические модели**
 ![user](./public/user.jpg)
 ![room](./public/room.jpg)
 ![content](./public/content.jpg)
